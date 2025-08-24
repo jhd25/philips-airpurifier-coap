@@ -14,6 +14,7 @@
 This is a `Local Push` integration for Philips airpurifiers and humidifiers.
 Currently only encrypted-CoAP is implemented.
 
+Temporary fork to implement fix for 2026.1
 
 ## Word of Caution
 
